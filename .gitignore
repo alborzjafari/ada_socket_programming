@@ -7,3 +7,5 @@
 # Binaries
 tcp_server
 tcp_client
+udp_server
+udp_client
