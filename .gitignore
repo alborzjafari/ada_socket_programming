@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+
+# Binaries
+tcp_server
+tcp_client
